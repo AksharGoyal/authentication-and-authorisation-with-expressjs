@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-node_modules
-.env*
-*.sqlite
-=======
 # Logs
 logs
 *.log
@@ -133,4 +128,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
+>>>>>>> 45c1b852e8e4d6eb7779d639b5e2d7f4937c7431
+=======
 >>>>>>> 45c1b852e8e4d6eb7779d639b5e2d7f4937c7431
